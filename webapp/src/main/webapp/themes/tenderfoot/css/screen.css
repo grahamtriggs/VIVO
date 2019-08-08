@@ -2,13 +2,13 @@
 
 /****************************************
 ****************************************
-  __  __   __  __  __    ___   
- /\ \/\ \\/\ \/\ \/\ \  / __`\ 
+  __  __   __  __  __    ___
+ /\ \/\ \\/\ \/\ \/\ \  / __`\
  \ \ \_/ |\ \ \ \ \_/ |/\ \L\ \
   \ \___/  \ \_\ \___/ \ \____/
    \/__/    \/_/\/__/   \/___/
- 
-               
+
+
 VIVO tenderfoot theme: screen styles
 
 *****************************************
@@ -30,5 +30,6 @@ VIVO tenderfoot theme: screen styles
 @import url("page-individual.css");
 @import url("page-login.css");
 @import url("page-menu.css");
+@import url("page-createAndLink.css");
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 @import url("../../../local/css/local.css");

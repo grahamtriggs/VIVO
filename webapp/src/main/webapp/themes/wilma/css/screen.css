@@ -2,21 +2,21 @@
 
 /****************************************
 ****************************************
-  __  __   __  __  __    ___   
- /\ \/\ \\/\ \/\ \/\ \  / __`\ 
+  __  __   __  __  __    ___
+ /\ \/\ \\/\ \/\ \/\ \  / __`\
  \ \ \_/ |\ \ \ \ \_/ |/\ \L\ \
   \ \___/  \ \_\ \___/ \ \____/
    \/__/    \/_/\/__/   \/___/
- 
-               
+
+
 VIVO wilma theme: screen styles
- 
+
  Original version
  2010-09-04 UI team
- 
+
  Last updated
  2011-2-1
- 
+
 *****************************************
 *****************************************/
 
@@ -24,4 +24,5 @@ VIVO wilma theme: screen styles
 
 @import url("reset.css");
 @import url("wilma.css");
+@import url("page-createAndLink.css");
 @import url("../../../local/css/local.css");
